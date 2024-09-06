@@ -1,0 +1,8 @@
+.dropcap {
+    float: left;
+    font-size: 6em;
+    line-height: 0.60;
+    margin: 0;
+    margin-left: -0.04em;
+    padding: .09em .04em 0em 0em;
+  }
